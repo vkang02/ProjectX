@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2c83575dcdcf14b4eb31df2187fc2767
+guid: 5576c265efcfd419688582ec333cbc3d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,12 +97,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: character1_walking_forward_0
+      name: Character1_Idle-sheet_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 32
+        width: 16
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -111,8 +111,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5113a77175a6940788962f8e0fce4818
-      internalID: 759748158
+      spriteID: 46d68df04e12b469bb066277bd4e247b
+      internalID: 70569044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character1_Idle-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31aa6d5b6ee84d7ca0fbd47c285c967
+      internalID: 1809568391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character1_Idle-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1dedc64a12840b2a9ec16ab6131238
+      internalID: -803461629
       vertices: []
       indices: 
       edges: []
@@ -128,7 +170,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      character1_walking_forward_0: 759748158
+      Character1_Idle-sheet_0: 70569044
+      Character1_Idle-sheet_1: 1809568391
+      Character1_Idle-sheet_2: -803461629
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
