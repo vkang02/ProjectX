@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2c83575dcdcf14b4eb31df2187fc2767
+guid: 13318156460b2403aa990d8f03a320fd
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -71,7 +71,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 4
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: character1_walking_forward_0
+      name: character1_walking_backwards_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5113a77175a6940788962f8e0fce4818
-      internalID: 759748158
+      spriteID: 0d7816ba4c474483aa22ff7ed8cee0d0
+      internalID: 384208539
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character1_walking_forward_1
+      name: character1_walking_backwards_1
       rect:
         serializedVersion: 2
         x: 16
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc1a56eb0867d4e4f98648b6f4ada613
-      internalID: -796261341
+      spriteID: 9b056b0ae50c24df687447e948588bdc
+      internalID: 755887649
       vertices: []
       indices: 
       edges: []
@@ -149,8 +149,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      character1_walking_forward_0: 759748158
-      character1_walking_forward_1: -796261341
+      character1_walking_backwards_0: 384208539
+      character1_walking_backwards_1: 755887649
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
